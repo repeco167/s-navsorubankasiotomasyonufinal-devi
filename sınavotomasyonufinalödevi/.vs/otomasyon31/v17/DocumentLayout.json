@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|c:\\users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\\u00F6\u011Frencipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|c:\\users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:3:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\\u00F6\u011Frencipaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:2:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\sorueklemeformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\S\u0131navOtomasyonu.csproj|solutionrelative:otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297E4DA3-C2E2-4620-8D6A-4F3A7441F20E}|otomasyon31\\otomasyon31.csproj|solutionrelative:otomasyon31\\s\u0131navtarihiekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\Form1.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:49:57.979Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\Form1.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeToolTip": "otomasyon31\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:50:01.787Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "adminpaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\adminpaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\adminpaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:49:50.317Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "adminpaneli.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\adminpaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeToolTip": "otomasyon31\\adminpaneli.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:49:53.298Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\\u00F6\u011Frencipaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:54:30.868Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:50:14.478Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "S\u0131navTarihiEkle.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeToolTip": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:50:20.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoruEklemeFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\SoruEklemeFormu.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:50:29.911Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SoruEklemeFormu.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\SoruEklemeFormu.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs*",
+              "RelativeToolTip": "otomasyon31\\SoruEklemeFormu.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:50:33.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoruEklemeFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\SoruEklemeFormu.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T20:59:22.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\\u00F6\u011Frencipaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\\u00F6\u011Frencipaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:20:33.502Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminpaneli.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\adminpaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeToolTip": "otomasyon31\\adminpaneli.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:20:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\Form1.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:19:51.188Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\Form1.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\Form1.cs",
+              "RelativeToolTip": "otomasyon31\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAiwBwAAACdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:19:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "adminpaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\adminpaneli.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\adminpaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\adminpaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:20:29.373Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "otomasyon31\\S\u0131navTarihiEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:20:36.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SoruEklemeFormu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\SoruEklemeFormu.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "otomasyon31\\SoruEklemeFormu.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:15:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "S\u0131navTarihiEkle.cs",
+              "DocumentMoniker": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeDocumentMoniker": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ToolTip": "C:\\Users\\ozgrs\\source\\repos\\otomasyon31\\otomasyon31\\S\u0131navTarihiEkle.cs",
+              "RelativeToolTip": "otomasyon31\\S\u0131navTarihiEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:20:36.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
